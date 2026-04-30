@@ -1,0 +1,51 @@
+{
+  "max_count_ads": "15",
+
+  "our_ads1_activation": "false",
+  "our_ads1_image_url": "",
+  "our_ads1_link_url": "",
+
+  "our_ads2_activation": "false",
+  "our_ads2_image_url": "",
+  "our_ads2_link_url": "",
+
+  "our_ads3_activation": "false",
+  "our_ads3_image_url": "",
+  "our_ads3_link_url": "",
+
+  "our_ads_inter_activation": "false",
+  "our_ads_inter_image_url": "",
+  "our_ads_inter_link_url": "",
+
+  "admob_app_id": "ca-app-pub-3940256099942544~1458002511",
+  "admob_banner": "ca-app-pub-3940256099942544/2934735716",
+  "admob_interstitial": "ca-app-pub-3940256099942544/4411468910",
+  "admob_rewarded_video": "ca-app-pub-3940256099942544/1712485313",
+
+  "unity_app_id": "5839106",
+  "unity_banner": "Banner_iOS",
+  "unity_interstitial": "Interstitial_iOS",
+  "unity_rewarded_video": "Rewarded_iOS",
+
+  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_banner": "ed2a0aedcfe8d875",
+  "appLovin_interstitial": "ba209a1c4fa1cb8d",
+  "appLovin_rewarded_video": "d88026c86517d5d1",
+
+  "gameplay_ads_mode": "limited",
+  "min_time_before_gameplay_ads": "60",
+  "min_deaths_before_ads": "2",
+
+  "use_mediation": "false",
+
+  "max_percentage": "70",
+  "admob_percentage": "30",
+
+  "applovin_activation": "true",
+  "unity_activation": "true",
+  "admob_activation": "true",
+
+  "applovin_percentage": "40",
+  "unity_percentage": "30",
+  "admob_percentage_non_mediation": "30"
+}
