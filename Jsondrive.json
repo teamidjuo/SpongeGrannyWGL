@@ -29,9 +29,9 @@
   "unity_rewarded_video": "az5oijw1d9998v1u",
 
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
-  "appLovin_banner": "ed2a0aedcfe8d875",
-  "appLovin_interstitial": "ba209a1c4fa1cb8d",
-  "appLovin_rewarded_video": "d88026c86517d5d1",
+  "appLovin_banner": "f28c9c69c5549a60",
+  "appLovin_interstitial": "ffd081ecc03bb5f6",
+  "appLovin_rewarded_video": "",
 
   "gameplay_ads_mode": "aggressive",
   "min_time_before_gameplay_ads": "60",
@@ -43,10 +43,10 @@
   "admob_percentage": "30",
 
   "applovin_activation": "true",
-  "unity_activation": "false",
+  "unity_activation": "true",
   "admob_activation": "false",
 
-  "applovin_percentage": "100",
-  "unity_percentage": "0",
+  "applovin_percentage": "50",
+  "unity_percentage": "50",
   "admob_percentage_non_mediation": "0"
 }
