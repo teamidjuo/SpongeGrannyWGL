@@ -32,7 +32,7 @@
   "appLovin_interstitial": "ffd081ecc03bb5f6",
   "appLovin_rewarded_video": "",
 
-  "gameplay_ads_mode": "limited",
+  "gameplay_ads_mode": "aggressive",
   "min_time_before_gameplay_ads": "60",
   "min_deaths_before_ads": "2",
 
